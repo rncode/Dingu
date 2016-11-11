@@ -85,7 +85,10 @@ dingu.module('apiClient', function(apiUrl, systemInfo) {
 });
 ```
 
-
+## Download and Install
+There are many ways to get dingu:
+* Grab the latest release from the [Github Release page](https://github.com/rncode/Dingu/releases)
+* Download [dingu.js](https://raw.githubusercontent.com/rncode/Dingu/master/dist/dingu.js)
 
 ## Project Information
 
