@@ -1,0 +1,22 @@
+{
+  "name": "dingu",
+  "version": "0.0.1",
+  "description": "An angular-style dependency injection framework.",
+  "main": "dist/dingu.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rncode/Dingu.git"
+  },
+  "author": "Richard Niemand <niemand.richard@gmail.com> (http://blog.rniemand.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rncode/Dingu/issues"
+  },
+  "homepage": "https://github.com/rncode/Dingu#readme"
+}

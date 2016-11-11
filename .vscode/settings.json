@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "src/**/*.js": true,
+        "dist/**/*.map": true
+    },
+    "typescript.check.workspaceVersion": false,
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true,
+    "editor.renderIndentGuides": true
+}

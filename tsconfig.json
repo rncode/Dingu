@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "none",
+        "sourceMap": true,
+        "outFile": "./dist/dingu.js",
+        "declaration": true
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}

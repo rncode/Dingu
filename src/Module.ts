@@ -1,0 +1,1 @@
+let dingu = new Rn.Utils.Dingu.Dingu();
